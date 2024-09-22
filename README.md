@@ -1,5 +1,8 @@
 # rest-api-client-app
 
+Restore npm_module
+npm install
+
 Create React App Command
 npx create-react-app rest-api-client
 
